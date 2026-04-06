@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=32&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=600&lines=Patience+Philip;Med+Student+%26+Builder;Science+Communicator;Lifelong+Learner)
 
-*Building a mind too expansive to confine.*
+⌈ .*Building a mind too expansive to confine.* ⌋
 
 <br/>
 
@@ -19,9 +19,9 @@
 
 ### ✦ About me
 
-I'm a first-year medical student who also builds things for the web — and somehow that makes complete sense to me.
+I am a first-year medical student who also builds things for the web (and yes, it somehow makes complete sense to me. :))
 
-I founded **[High School Medics](https://linkedin.com/company/high-school-medics)** — a global youth medical education community helping aspiring medical students access guidance and mentorship. I host **Under the Stethoscope**, a podcast about medicine and scientific curiosity. I sit on the Health Policy & Research Committee at NARAA, focused on eye health for underserved communities. And in between all of that, I write code, design interfaces, and open-source whatever I build.
+I founded **[High School Medics](https://linkedin.com/company/high-school-medics)**, a global youth medical education community helping aspiring medical students access guidance and mentorship. I host **Under the Stethoscope**, a podcast about medicine and scientific curiosity. I sit on the Health Policy & Research Committee at NARAA, focused on eye health for underserved communities. And in between all of that, I write code, design interfaces, and open-source whatever I build.
 
 - 🩺 Med student at the University of Ilorin
 - 🌍 Founder of High School Medics (HSM)
