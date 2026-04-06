@@ -23,7 +23,7 @@ I am a first-year medical student who also builds things for the web (and yes, i
 
 I founded **[High School Medics](https://linkedin.com/company/high-school-medics)**, a global youth medical education community helping aspiring medical students access guidance and mentorship. I host **Under the Stethoscope**, a podcast about medicine and scientific curiosity. I sit on the Health Policy & Research Committee at NARAA, focused on eye health for underserved communities. And in between all of that, I write code, design interfaces, and open-source whatever I build.
 
-- 🩺 Med student at the University of Ilorin
+- 🩺 Med student at UIL
 - 🌍 Founder of High School Medics (HSM)
 - 🎙️ Host of *Under the Stethoscope* podcast
 - ✦ Currently building: [responsive-templates](https://github.com/patiencephilip/responsive-templates) — free, config-driven HTML/CSS/JS templates
