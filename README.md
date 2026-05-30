@@ -21,7 +21,7 @@
 
 I am a first-year medical student who also builds things for the web (and yes, it somehow makes complete sense to me. :))
 
-I founded **[High School Medics](https://linkedin.com/company/high-school-medics)**, a global youth medical education community helping aspiring medical students access guidance and mentorship. I host **Under the Stethoscope**, a podcast about medicine and scientific curiosity. I do a lot of extracurriculars as well. And in between all of that, I write code, design interfaces, and open-source whatever I build.
+I have a list of interests the height of Everest and do a lot of extracurriculars. In between everything, I write code, design interfaces, and open-source whatever I build.
 
 - ✦ Currently building: [responsive-templates](https://github.com/patiencephilip/responsive-templates) — free, config-driven HTML/CSS/JS templates
 - 🌱 Always learning: Python, WebGL, and whatever comes next
