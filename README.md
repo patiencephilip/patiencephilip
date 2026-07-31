@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0a0b?style=for-the-badge&logoColor=C8A96E&logo=github)](https://patiencephilip.github.io/responsive-templates/portfolio/)
 [![Dev.to](https://img.shields.io/badge/DEV.TO-0a0a0b?style=for-the-badge&logo=devdotto&logoColor=C8A96E)](https://dev.to/thequeenofeverything)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0b?style=for-the-badge&logo=linkedin&logoColor=C8A96E)](https://linkedin.com/in/patiencephilip)
-[![Twitter](https://img.shields.io/badge/TWITTER-0a0a0b?style=for-the-badge&logo=x&logoColor=C8A96E)](https://twitter.com/Patiencephilip_)
+[![Twitter](https://img.shields.io/badge/TWITTER-0a0a0b?style=for-the-badge&logo=x&logoColor=C8A96E)](https://twitter.com/yourheartbeat15)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ### ✦ About me
 
-I am a first-year medical student who also builds things for the web (and yes, it somehow makes complete sense to me. :))
+I am a second-year med student who also builds things for the web!
 
 I have a list of interests the height of Everest and do a lot of extracurriculars. In between everything, I write code, design interfaces, and open-source whatever I build.
 
@@ -71,6 +71,6 @@ I have a list of interests the height of Everest and do a lot of extracurricular
 
 ![Profile views](https://komarev.com/ghpvc/?username=patiencephilip&color=c8a96e&style=flat-square&label=PROFILE+VIEWS)
 
-*If something I built helped you, a ⭐ goes a long way.*
+*If something I built helped you, a ⭐ goes a realllyyy long way.*
 
 </div>
